@@ -15,8 +15,7 @@ O mapa mental acima foi gerado com apoio de ferramenta de IA (ChatGPT), a partir
 
 ## Fontes de Pesquisa
 
-- IIBA — BABOK® Guide. Disponível em: <https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/>. Acesso em: 13 set. 2026.
-- IIBA — Global Business Analysis Standards, Regulations and Best Practices. Disponível em: <https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/global-business-analysis-standards-regulations-and-best-practices/>. Acesso em: 13 set. 2026.
-- IIBA — Business Analysis Certifications. Disponível em: <https://www.iiba.org/business-analysis-certifications/iiba-certifications/>. Acesso em: 13 set. 2026.
-- IIBA — KnowledgeHub: Business Analysis Body of Knowledge (BABOK® Guide). Disponível em: <https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/>. Acesso em: 13 set. 2026.
-- INTERNATIONAL INSTITUTE OF BUSINESS ANALYSIS (IIBA). BABOK® Guide Appendix A: Glossary. Disponível em: <https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/glossary/>. Acesso em: 10 ago. 2026.
+- IIBA — A Guide to the Business Analysis Body of Knowledge (BABOK® Guide). Disponível em: https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/. Acesso em: 13 set. 2026.
+- IIBA — Global Business Analysis Standards, Regulations and Best Practices. Disponível em: https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/global-business-analysis-standards-regulations-and-best-practices/. Acesso em: 13 set. 2026.
+- IIBA — Business Analysis Certifications. Disponível em: https://www.iiba.org/business-analysis-certifications/iiba-certifications/. Acesso em: 13 set. 2026.
+- INTERNATIONAL INSTITUTE OF BUSINESS ANALYSIS (IIBA). BABOK® Guide Appendix A: Glossary. Disponível em: https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/glossary/. Acesso em: 10 ago. 2026.
