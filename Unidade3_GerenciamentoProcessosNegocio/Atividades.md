@@ -36,7 +36,7 @@ O grupo atuou como uma equipe de Engenharia de Requisitos e Análise de Processo
 
 | Integrante |
 |---|
-| Adriano Lisarb Guzmán Moura Batista (eu) |
+| Adriano Lisarb Guzmán Moura Batista |
 | Erica Pereira Da Silva |
 | Ana Beatriz De Almeida Ramos |
 | Christian Calebe Ferreira Campos Silva |
@@ -46,4 +46,4 @@ O grupo atuou como uma equipe de Engenharia de Requisitos e Análise de Processo
 
 ## Entrega
 
-📎 *Documento final do grupo a ser adicionado aqui (PDF).*
+📎 [Documento final do grupo (PDF)](./Atividade_Pratica_Clinica_VidaMais_Unidade3.pdf)
