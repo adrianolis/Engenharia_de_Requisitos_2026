@@ -27,5 +27,4 @@ Framework de priorização usado em gestão de projetos e metodologias ágeis, q
 
 Esta unidade dá continuidade ao trabalho em grupo iniciado na Unidade 3 (estudo de caso Clínica Vida+ Saúde), aplicando a técnica MoSCoW à priorização dos requisitos já levantados.
 
-📎 *Documento do grupo (Word/PDF) a ser adicionado aqui quando finalizado.*
-📎 *Link ou imagem do template MoSCoW no Miro a ser adicionado aqui quando finalizado: <https://miro.com/pt/modelos/matriz-moscow/>*
+📎 [Documento do grupo (PDF)](./Atividade_Pratica_Clinica_VidaMais_Unidade4_MoSCoW.pdf)
